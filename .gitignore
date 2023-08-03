@@ -1,0 +1,5 @@
+node_modules
+.txt
+accessToken.json
+package-lock.json
+.env
